@@ -22,4 +22,4 @@ Eight years ago, when I first met Siobhan, she showed me this picture
 
 
 
-voicecall implimented and added mute
+voicecall implimented and added mute,hang 
