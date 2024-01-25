@@ -5,7 +5,7 @@ const number = parseInt(prompt('Enter a positive integer: '));
 
 // checking if number is negative
 if (number < 0) {
-    console.log('Some errors occurred.');
+    console.log('Some errors occurred. ecceptions');
 }
 
 // if number is 0
